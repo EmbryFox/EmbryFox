@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Embry#2524** on Discord
 
-- ⚡ Fun fact *I have two cats.**
+- ⚡ Fun fact **I have two cats.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
