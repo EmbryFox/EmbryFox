@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Embry_</h1>
-<h3 align="center">I'm a fox</h3>
+<h3 align="center">A Kotlin/Java Developer</h3>
 
 - 🌱 I’m currently learning Java **Spigot Development**
 
