@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Embry_</h1>
 <h3 align="center">A Kotlin/Java Developer</h3>
 
-- 🌱 I’m currently learning Java **Spigot Development**
+- 🌱 I’m currently learning nothing lol
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmbryFox](https://github.com/EmbryFox)
 
